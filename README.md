@@ -1,10 +1,9 @@
-<p align="center">
-  <a href="https://minimal-blog.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
+<meta charset="utf-8">
+<p>
+    <div style="font-size:64px" align="center">&#127942;</div>
 </p>
 <h1 align="center">
-  Gatsby Starter: Minimal Blog
+  Trophy Day Blog 
 </h1>
 
 <p align="center">
