@@ -7,9 +7,9 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Trophy Protocol`,
-    siteTitleAlt: `Trophy Protocol - Web3 Reputation Protocol`,
-    siteHeadline: `Trophy Protocol - Web3 Reputation Protocol | Soulbound Tokens(SBTs)`,
+    siteTitle: `Trophy`,
+    siteTitleAlt: `Trophy - Web3 Reputation Protocol`,
+    siteHeadline: `Trophy - Web3 Reputation Protocol | Soulbound Tokens(SBTs)`,
     siteUrl: `https://trophyday.xyz`,
     siteDescription: ` Trophy is a web3 reputation protocol for anyone to manage their Soulbound tokens (SBTs).`,
     siteLanguage: `en`,
@@ -34,11 +34,11 @@ module.exports = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            url: `https://twitter.com/trophyday`,
           },
           {
             name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            url: `https://trophyday.xyz`,
           },
         ],
       },
